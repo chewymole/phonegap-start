@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>FYC Contact Form</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Tool for salesmen to add leads into their FYC account
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="https://www.followyourcustomer.com" email="support@followyourcustomer.com">
+        FYC Team
     </author>
 
     <!--
